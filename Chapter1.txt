@@ -1,1 +1,11 @@
 hi there!
+
+//for using git first go into the folder - cd folderName -> git init -> 
+//git add .  (it will add the file to the staging area) -> 
+// git commit -m "whatever message you want" 
+//we can use git checkout "fileName" for rollback
+//we can use git log and git status for info 
+
+//uploading the files from vs code to github
+  //git remote add origin https://github.com/anubhutiprasad/Story.git  
+  // git push -u origin main or git push --set-upstream origin master
