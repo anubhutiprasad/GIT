@@ -9,3 +9,15 @@ hi there!
 //uploading the files from vs code to github
   //git remote add origin https://github.com/anubhutiprasad/Story.git  
   // git push -u origin main or git push --set-upstream origin master
+
+//we can download the zip file of someones repo and use it by cloning
+// git clone url-name
+
+//branch and merge
+//this allow for the parallel development of features or bug fixes (branching) and combining the changes back into the
+//main codebase (merging), enabling collaboration and version control in a structured and organized manner.
+//git branch your_branchName (for creating a branch)
+//git branch (to see in which branch we are in) 
+//git checkout branch-name (for going into that particular branch) and then we can work there and add files whatever we
+//want by adding and committing it and then we get back to the main branch (i.e here the master branch) 
+//and there we merge both of them by using git merge your_branchName
