@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hi my name is anubhuti 
 oh hello dear!
+=======
+Hi my name is anubhuti.
+>>>>>>> alien-port
