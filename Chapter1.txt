@@ -4,7 +4,7 @@ hi there!
 //git add .  (it will add the file to the staging area) -> 
 // git commit -m "whatever message you want" 
 //we can use git checkout "fileName" for rollback
-//we can use git log and git status for info 
+//git log (when what all is done or updated) & git status (it simply tells your status that what has been done)
 
 //uploading the files from vs code to github
   //git remote add origin https://github.com/anubhutiprasad/Story.git  
